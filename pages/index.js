@@ -46,13 +46,13 @@ function Home() {
         paddingY={contentPaddingY}
       >
         <Text textAlign="center" fontSize="xl">
-          ATX DAO is a city DAO working to unite Austin's crypto communities, 
+          ATX DAO is a city DAO working to unite Austin&apos;s crypto communities, 
           to enable artists and local businesses to participate in the crypto ecosystem, 
           and to educate the government about the benefits of Web3. 
           As a democratic group of crypto enthusiasts building a cohesive network of developers, 
           artists, investors, and crypto professionals, the DAO organizes social events, 
           provides support to the local community, and assists in the creation of new web3 
-          projects. 25 'Genesis' members, the holders of 25 unique NFTs, currently compose 
+          projects. 25 &apos;Genesis&apos; members, the holders of 25 unique NFTs, currently compose 
           the voting body of the DAO.
         </Text>
       </Box>

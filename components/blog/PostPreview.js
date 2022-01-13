@@ -23,7 +23,7 @@ function PostPreview(props) {
                     borderRadius="6px"
                     minWidth="100%"
                     minHeight="200px"
-                    backgroundImage={props.img || '/img/sample-event.jpg'}
+                    backgroundImage={props.img}
                     backgroundSize="cover"
                     backgroundPosition="center"
                 />
